@@ -17,5 +17,5 @@ Users are prompted for their choices for each round, a total of five rounds ends
 
 _Rock beats Scissors_
 _Scissors beats Paper_
-_Paper beats Roc
+_Paper beats Rock_
 
