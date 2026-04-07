@@ -73,6 +73,8 @@ function playGame() {
             game.textContent = `Computer wins ${computerScore} to ${humanScore}`
             humanScore = 0;
             computerScore = 0;
+        } else {
+            game.textContent = `You(${humanScore}) - Computer(${computerScore})`;
         }
     }
     
