@@ -64,7 +64,7 @@ function playGame() {
                 console.log("Tie");
         }
 
-        //To End a game
+        //To End a game or show a running score
         if (humanScore == 5) {
             game.textContent = `You won the game ${humanScore} to ${computerScore}`;
             humanScore = 0;
